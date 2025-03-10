@@ -1,18 +1,23 @@
-.post(
 
-)
-.post_header(
+.post{
+    display: flex;
+    text-align: center;
 
-)
-.header_icon(
+}
+.post_header{
+    display: flex;
 
-)
-.post_img(
+}
+.header_icon{
 
-)
-.post_body(
+}
+.post_img{
 
-)
-.post_icon(
-    
-)
+}
+
+.post_body{
+
+}
+.post_icon{
+display: flex;
+}
