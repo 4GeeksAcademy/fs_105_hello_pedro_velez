@@ -10,7 +10,7 @@ body{
 .post{
     display: flex;
     width: 250px;
-    height: 650px;
+    height: 600px;
     background-color: white;
     flex-direction: column;
 
@@ -28,8 +28,10 @@ body{
 
 }
 .rigoberto{
+    margin: 0px;
     margin-left: 5px;
     font-style: italic;
+    
 
 }
 
